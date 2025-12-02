@@ -1,0 +1,1 @@
++ profile image, each image - usersPresent, yourSection(not very acc - only one user detect)
